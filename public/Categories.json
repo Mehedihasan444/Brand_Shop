@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "category":"Phone",
+        "image":"https://www.startech.com.bd/image/cache/catalog/category-thumb/mobile-phone-48x48.png"
+    },
+    {
+        "id":2,
+        "category":"Laptop",
+        "image":"https://www.startech.com.bd/image/cache/catalog/category-thumb/laptop-battery-01-48x48.png"
+    },
+    {
+        "id":3,
+        "category":"Tablet",
+        "image":"https://www.startech.com.bd/image/cache/catalog/category-thumb/mobile-phone-48x48.png"
+    },
+    {
+        "id":4,
+        "category":"Watch",
+        "image":"https://www.startech.com.bd/image/cache/catalog/category-thumb/smart-watch-48x48.png"
+    },
+    {
+        "id":5,
+        "category":"TV",
+        "image":"https://www.startech.com.bd/image/cache/catalog/category-thumb/tv-48x48.png"
+    },
+    {
+        "id":6,
+        "category":"Earbud",
+        "image":"https://www.startech.com.bd/image/cache/catalog/category-thumb/earbuds-48x48.png"
+    }
+
+]
